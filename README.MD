@@ -102,7 +102,7 @@ If you'd like to contribute to the project, please follow the guidelines outline
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the code in accordance with the terms of the license.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in accordance with the terms of the license.
 
 ## Support the Project
 
